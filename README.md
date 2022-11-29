@@ -1,4 +1,7 @@
-- 👋 Hi, I’m Amienul Rana you can call me Amien
+# Hi, I'm Amienul Rana <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
+# About Me
+
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning Vue Ecosystem
 - 💞️ I’m looking to collaborate on expert developers
