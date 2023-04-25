@@ -16,7 +16,7 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AmienulRana&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=saluthdev&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 <!---
 AmienulRana/AmienulRana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
