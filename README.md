@@ -13,6 +13,13 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AmienulRana&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="AmienulRana" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmienulRana&theme=highcontrast&hide_border=true" alt="AmienulRana" />
 </p>
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AmienulRana&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=AmienulRana&icon=0&color=0)](https://visitcount.itsvg.in)
 <!---
 AmienulRana/AmienulRana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
