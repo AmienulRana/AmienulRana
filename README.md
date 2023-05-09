@@ -9,10 +9,10 @@
 
 ## Stats📈
 <p align="start">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AmienulRana&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="AmienulRana" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AmienulRana&show_icons=true&theme=dracula&title_color=61dafb&text_color=ffffff&bg_color=20232a&locale=en&hide_border=true&icon_color=61dafb" alt="AmienulRana" />
 </p>
 <p>
-   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmienulRana&theme=highcontrast&hide_border=true" alt="AmienulRana" />
+   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmienulRana&theme=react&hide_border=true" alt="AmienulRana" />
 </p>
 
 
