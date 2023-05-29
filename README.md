@@ -3,7 +3,7 @@
 # About Me
 
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Typescript and E2E testing with cypress
+- 🌱 I’m currently learning Svelte Framework
 - 💞️ I’m looking to collaborate on expert developers
 - 📫 How to reach me amienulrana@gmail.com
 
